@@ -8,4 +8,4 @@ notifications:
   on_start: never   # default: never
   on_cancel: never # default: always
   on_error: never # default: always
-srcipt: exit 1
+srcipt: "exit 1"
